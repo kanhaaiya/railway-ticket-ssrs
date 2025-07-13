@@ -1,0 +1,5 @@
+
+SQL Server Name -  DESKTOP-5N2IKBT\SQLEXPRESS
+DATABASE Name   -  RailwayBookingDB
+
+SSRS Dataset Query - SELECT * FROM vw_RailwayTicketReport WHERE PNRno = @PNRno
